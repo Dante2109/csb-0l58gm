@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dante2109.github.io/csb-0l58gm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dante2109.github.io/csb-0l58gm/static/js/main.88954fd9.chunk.js",
+    "main.js.map": "https://dante2109.github.io/csb-0l58gm/static/js/main.88954fd9.chunk.js.map",
+    "runtime-main.js": "https://dante2109.github.io/csb-0l58gm/static/js/runtime-main.81053155.js",
+    "runtime-main.js.map": "https://dante2109.github.io/csb-0l58gm/static/js/runtime-main.81053155.js.map",
+    "static/js/2.bf75bad9.chunk.js": "https://dante2109.github.io/csb-0l58gm/static/js/2.bf75bad9.chunk.js",
+    "static/js/2.bf75bad9.chunk.js.map": "https://dante2109.github.io/csb-0l58gm/static/js/2.bf75bad9.chunk.js.map",
+    "index.html": "https://dante2109.github.io/csb-0l58gm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dante2109.github.io/csb-0l58gm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bf75bad9.chunk.js.LICENSE.txt": "https://dante2109.github.io/csb-0l58gm/static/js/2.bf75bad9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81053155.js",
+    "static/js/2.bf75bad9.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.88954fd9.chunk.js"
+  ]
+}
